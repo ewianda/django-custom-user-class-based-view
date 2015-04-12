@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import os
 setup( 
     name='django-custom-user',
-    version='0.0.2', 
+    version='0.0.1', 
     install_requires=[
         'setuptools',
         'Django>=1.5',
